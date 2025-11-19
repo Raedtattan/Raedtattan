@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raedtattan
-- 👀 I’m interested in ...Drink coffee
-- 🌱 I’m currently learning ...SSRS , 
+- 👀 I’m interested in ...Drink coffee , Basketball
+- 🌱 I’m currently learning ...Master Of AI , 
 - 💞️ I’m looking to collaborate on ...build profficianal application
-- 📫 How to reach me ...Twitter , Linkedin Account 
+- 📫 How to reach me ... X , Linkedin Account 
 
 <!---
 Raedtattan/Raedtattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
