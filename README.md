@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Raedtattan
-- 👀 I’m interested in ...Drink coffee , Basketball
-- 🌱 I’m currently learning ...Master Of AI , 
-- 💞️ I’m looking to collaborate on ...build profficianal application
-- 📫 How to reach me ... X , Linkedin Account 
+👋 Hi, I’m @Raedtattan
+👀 I’m interested in ...Drink coffee , Basketball
+🤖 Enterprise AI & RAG
+📊 BI, Data & ERP Solutions
+🐍 Python | SQL | Power BI | SAP
+
+📫 linkedin.com/in/raed-tattan
 
 <!---
 Raedtattan/Raedtattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
